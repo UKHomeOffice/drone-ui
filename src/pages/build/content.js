@@ -1,3 +1,4 @@
+import {BLOCKED} from '../../components/status';
 import {branch} from 'baobab-react/higher-order';
 import {Matrix} from './matrix';
 import React from 'react';
